@@ -1,0 +1,13 @@
+Date,Description,Amount,Transaction Type,Merchant
+2024-01-01,Salary Deposit,5000.00,Income,Employer
+2024-01-02,Grocery Store,45.50,Expense,Whole Foods
+2024-01-03,Uber Ride,12.75,Expense,Uber
+2024-01-05,Netflix Subscription,15.99,Expense,Netflix
+2024-01-10,Rent Payment,1200.00,Expense,Landlord
+2024-01-15,Starbucks,5.50,Expense,Starbucks
+2024-01-20,Gas Station,35.00,Expense,Shell
+2024-02-01,Salary Deposit,5000.00,Income,Employer
+2024-02-02,Amazon Purchase,89.99,Expense,Amazon
+2024-02-05,Restaurant,65.00,Expense,Local Diner
+2024-02-10,Electricity Bill,75.00,Expense,Utility Co
+2024-02-15, Movie Tickets,25.00,Expense,AMC
