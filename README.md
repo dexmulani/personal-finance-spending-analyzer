@@ -13,7 +13,18 @@ A complete end-to-end data science project for analyzing personal finances, buil
 - 📥 Download processed data
 
 ## Screenshots
-*(Add screenshots of the running app here in your GitHub repo)*
+
+### Dashboard Overview
+![Dashboard](assets/inter1.png)
+
+### Expense Analysis
+![Expense Analysis](assets/inter2.png)
+
+### Spending Trends
+![Spending Trends](assets/inter3.png)
+
+### Forecast & Insights
+![Forecast](assets/inter4.png)
 
 ## Installation
 1. Clone the repository
