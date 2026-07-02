@@ -4,7 +4,7 @@ A complete end-to-end data science project for analyzing personal finances, buil
 
 ## Features
 - 📁 CSV data upload with validation
-- 🧹 Data cleaning and preprocessing
+- 🧹 Data cleaning and preprocessing             
 - 🏷️ Rule-based expense categorization (extensible to ML)
 - 📊 Comprehensive EDA and KPIs
 - 📈 Interactive Plotly visualizations
