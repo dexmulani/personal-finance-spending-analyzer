@@ -11,7 +11,7 @@ A complete end-to-end data science project for analyzing personal finances, buil
 - 🔮 Simple forecasting with Linear Regression & Moving Average
 - 💡 Automated financial insights                 
 - 📥 Download processed data
-
+                               
 ## Screenshots
 
 ### Dashboard Overview
