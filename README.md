@@ -6,7 +6,7 @@ A complete end-to-end data science project for analyzing personal finances, buil
 - 📁 CSV data upload with validation                     
 - 🧹 Data cleaning and preprocessing             
 - 🏷️ Rule-based expense categorization (extensible to ML)                                      
-- 📊 Comprehensive EDA and KPIs
+- 📊 Comprehensive EDA and KPIs                     
 - 📈 Interactive Plotly visualizations
 - 🔮 Simple forecasting with Linear Regression & Moving Average
 - 💡 Automated financial insights                 
